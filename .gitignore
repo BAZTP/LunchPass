@@ -1,0 +1,23 @@
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Java / Maven Backend
+target/
+*.class
+.mvn/
+maven/
+*.jar
+*.war
+
+# IDEs & System
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+.env.local
+.env.*.local
